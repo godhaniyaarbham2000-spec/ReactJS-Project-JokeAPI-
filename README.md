@@ -1,7 +1,7 @@
 # 😂 React Joke Generator Project
 
 A simple and fun **React + Vite Joke Generator App** that fetches random jokes from an API and lets users reveal punchlines interactively. Built for practicing API handling, React hooks, and UI state management.
-
+ 
 ---
 
 ## 🚀 Features
