@@ -1,5 +1,5 @@
 import React from "react";
-import JokerCard from "./components/JokerCard";
+import JokeCard from "./components/JokerCard";
 
 export default function App() {
   return (
