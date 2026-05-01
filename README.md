@@ -38,8 +38,6 @@ A simple and fun **React + Vite Joke Generator App** that fetches random jokes f
 
 ## 📂 Project Structure
 ```
-## 📂 Project Structure
-
 ReactJS-Project-JokeAPI/
 │
 ├── src/
