@@ -40,7 +40,7 @@ A simple and fun **React + Vite Joke Generator App** that fetches random jokes f
 ```
 ## 📂 Project Structure
 
-Joke-Generator/
+ReactJS-Project-JokeAPI/
 │
 ├── src/
 │ ├── components/
@@ -61,11 +61,11 @@ Joke-Generator/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/your-username/react-joke-generator.git
+git clone https://github.com/godhaniyaarbham2000-spec/ReactJS-Project-JokeAPI.git
 ```
 ### 2. Move to project folder
 ```
-cd react-joke-generator
+cd ReactJS-Project-JokeAPI
 ```
 
 ### 3. Install dependencies
